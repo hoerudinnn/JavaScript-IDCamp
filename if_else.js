@@ -24,3 +24,5 @@ if (nilai > 90) {
 } else {
   console.log("Mohon maaf Anda belum lulus");
 }
+
+// menggunakan ternary operator
